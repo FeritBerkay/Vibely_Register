@@ -1,6 +1,6 @@
 # vibely_deneme
 
-A new Flutter project.
+![Screenshot_1626640407](https://user-images.githubusercontent.com/76204009/126081518-c7ca5394-5f47-4853-b5ef-843366f36575.png)
 
 ## Getting Started
 
